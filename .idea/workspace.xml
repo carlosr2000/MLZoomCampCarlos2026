@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="936af38c-c5ea-4fde-be19-88aade3649e5" name="Changes" comment="Atualização.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML Zoomcamp/1- Introdução/atividade.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML Zoomcamp/1- Introdução/atividade.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +47,15 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.1 - Numpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2 - Algebra Linear.executor&quot;: &quot;Run&quot;,
     &quot;Python.2 - Pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3 - Pandas.executor&quot;: &quot;Run&quot;,
     &quot;Python.Numpy.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Carlos Henrique/PycharmProjects/MLZoomCampCarlos2026&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
@@ -64,7 +64,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.2 - Algebra Linear">
     <configuration name="1 - Numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,8 +91,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2 - Algebra Linear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\MLZoomCampCarlos2026\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML Zoomcamp/1- Introdução/2 - Algebra Linear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3 - Pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\MLZoomCampCarlos2026\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML Zoomcamp/1- Introdução/3 - Pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2 - Algebra Linear" />
+        <item itemvalue="Python.3 - Pandas" />
         <item itemvalue="Python.1 - Numpy" />
       </list>
     </recent_temporary>
@@ -120,6 +174,8 @@
       <workItem from="1790523782820" duration="4050000" />
       <workItem from="1790528548419" duration="4015000" />
       <workItem from="1790532591804" duration="671000" />
+      <workItem from="1790533281269" duration="163000" />
+      <workItem from="1790549626567" duration="16449000" />
     </task>
     <task id="LOCAL-00001" summary="Organizando pasta e numpy.">
       <option name="closed" value="true" />
@@ -137,7 +193,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790475980347</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Atualização.">
+      <option name="closed" value="true" />
+      <created>1790533370523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790533370523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Atualização.">
+      <option name="closed" value="true" />
+      <created>1790533419011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790533419012</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +221,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Atualização." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MLZoomCampCarlos2026$3___Pandas.coverage" NAME="3 - Pandas Coverage Results" MODIFIED="1790562205588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
+    <SUITE FILE_PATH="coverage/MLZoomCampCarlos2026$2___Algebra_Linear.coverage" NAME="2 - Algebra Linear Coverage Results" MODIFIED="1790564395767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
     <SUITE FILE_PATH="coverage/MLZoomCampCarlos2026$Numpy.coverage" NAME="Numpy Coverage Results" MODIFIED="1790524570109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
     <SUITE FILE_PATH="coverage/MLZoomCampCarlos2026$1___Numpy.coverage" NAME="1 - Numpy Coverage Results" MODIFIED="1790532104502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
     <SUITE FILE_PATH="coverage/MLZoomCampCarlos2026$2___Pandas.coverage" NAME="2 - Pandas Coverage Results" MODIFIED="1790524653848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />

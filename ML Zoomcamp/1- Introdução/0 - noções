@@ -1,0 +1,55 @@
+Introdução para Machine Learning com Zoomcamp.
+--
+[GitZoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/01-intro)
+Nesse exemplo usaremos carros e como descobrir o preço de um carro sendo o preço junto nem muito baixo para não perder e nem muito alto para não valer a pena para o comprador. Geralmente levamos em conta em um carro o fabricante, o ano de fabricação e a quilometragem rodada.
+Quando levamos para um especialista ele analisa o preço com base na sua vasta experiencia, ele precisa aprender por anos sobre quanto custa vários carros sobre depreciação para falar um valor de um carro com base nessas informações.
+O modelo de treinamento de máquina(ML) irá realizar uma predição parecida com o especialista de carro porém de forma quase instantânea, com bases nas informações que o modelo tem esperamos uma alvo parecido com o valor real do carro.
+Dois objetivos são fundamentais no ML como os features(informações para predição) que está dentro do modelo e o target(valor predito) é usado como comparação depois que o modelo entrega o resultado.
+O modelo + predição = é esperado um valor próximo do real
+--
+ML vs Rule-Based Systems (Sistemas Baseados em regras)
+Exemplo de sistema de email:
+Um problema inconveniente em emails são os spams onde há alguém querendo vender um produto, dar golpe ou envios excessivos.
+Primeiramente tentamos encontrar um padrão de spam.
+Regras:
+No exemplo do ensino é o dominio de mail "promotions @online.com" é considerado um spam. E também caso o titulo conter "revisão de impostos" e o domínio possui @online.com ele é um spam caso não seja desse domínio ele é um email normal.
+
+Código em python baseado em regras:
+
+
+def detector_spam(email):
+	if email.sender == 'promotions @online.com':
+		return SPAM
+	if contains(email.title,['imposto','revisão'] and
+		domain(email.sender,'online.com'):
+			return SPAM
+	Return NORMAL   (não spam)
+
+
+Mas nesse sistema baseado em regras temos um problema comum os SPAMS se adaptam mudando as regras com domínios diferentes palavras chaves diferentes.  Com isso se essa regra fosse feito em python com o passar do tempo o código ia ficar gigantes cada vez mais.
+E outro problema seria mover um email normal para o SPAM o que muito ruim para qualquer pessoa.
+Usando ML para resolver o problema de SPAM.
+Precisamos de dados para treinar o modelo, como pegamos esses dados? Com o próprio usuário marcando o email recebido como SPAM.
+Para definirmos as features é sempre termos uma boa ideia de como seria feita se fosse em um sistema baseado em regras, porque?
+Nesse exemplo as features é marcado como verdadeiro ou falso bem parecida com o rule-based, True/false é uma operação que pode ser ou 1 ou outro no caso conseguimos fazer
+ou 0 ou 1 = Uma forma binária.
+
+Durante a fase de treinamento do modelo ele recebe as Features para prever se um email é ou não spam e targets que são emails já marcados como spam.
+Sendo usado de exemplo SPAM >= 50% de chance de ser SPAM
+
+Supervised Machine Learning
+--
+É ensinar um modelo machine learning com uma função ''g'' que armazena diferentes exemplos caracterizados por uma matriz X que tem o resultado uma predição mais ou menos parecida com o real.
+Essa função g é o que vai ser aprendido em Machine learning.
+g(X)≈y
+--
+Classificações de Respostas de Variáveis:
+--
+Classificação multi-classe: O target pode ter um número maior de classificação
+Classificação binária: A variável pode ser é ou não é.
+Regressão linear: predição de valor
+Ranking: Ranqueia a variável em mais ou menos recomendado sendo os top da lista a variável que irá ser apresentada.
+
+Cross Industry Standard Process for Data Mining (CRISP-DM)
+--
+Metodologia para organizar projetos de ML
