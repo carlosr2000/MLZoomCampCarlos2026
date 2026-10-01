@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="936af38c-c5ea-4fde-be19-88aade3649e5" name="Changes" comment="Atualização.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML Zoomcamp/1- Introdução/1 - atividade.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML Zoomcamp/2 - Regressão/Anotações.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML Zoomcamp/2 - Regressão/Anotações.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +215,13 @@
       <workItem from="1790549626567" duration="16449000" />
       <workItem from="1790566319125" duration="261000" />
       <workItem from="1790634906873" duration="1679000" />
-      <workItem from="1790767914174" duration="8954000" />
+      <workItem from="1790767914174" duration="9117000" />
+      <workItem from="1790777233433" duration="11000" />
+      <workItem from="1790777264616" duration="60000" />
+      <workItem from="1790782018353" duration="206000" />
+      <workItem from="1790782238315" duration="73000" />
+      <workItem from="1790799181239" duration="20000" />
+      <workItem from="1790805742501" duration="7086000" />
     </task>
     <task id="LOCAL-00001" summary="Organizando pasta e numpy.">
       <option name="closed" value="true" />
@@ -257,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790566434579</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atualização.">
+      <option name="closed" value="true" />
+      <created>1790777166959</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790777166959</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,27 +281,6 @@
     <MESSAGE value="Organizando pasta e numpy." />
     <MESSAGE value="Atualização." />
     <option name="LAST_COMMIT_MESSAGE" value="Atualização." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/ML Zoomcamp/2 - Regressão/Anotações.ipynb</url>
-          <line>115</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/ML Zoomcamp/2 - Regressão/Anotações.ipynb</url>
-          <line>116</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/ML Zoomcamp/2 - Regressão/Anotações.ipynb</url>
-          <line>117</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MLZoomCampCarlos2026$3___Pandas.coverage" NAME="3 - Pandas Coverage Results" MODIFIED="1790562205588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
