@@ -221,7 +221,10 @@
       <workItem from="1790782018353" duration="206000" />
       <workItem from="1790782238315" duration="73000" />
       <workItem from="1790799181239" duration="20000" />
-      <workItem from="1790805742501" duration="7086000" />
+      <workItem from="1790805742501" duration="7338000" />
+      <workItem from="1790890821702" duration="665000" />
+      <workItem from="1790891514008" duration="5266000" />
+      <workItem from="1790898009952" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="Organizando pasta e numpy.">
       <option name="closed" value="true" />
@@ -271,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790777166959</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Atualização.">
+      <option name="closed" value="true" />
+      <created>1790814565226</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1790814565226</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
