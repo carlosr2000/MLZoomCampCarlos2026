@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="936af38c-c5ea-4fde-be19-88aade3649e5" name="Changes" comment="Atualização.">
+      <change afterPath="$PROJECT_DIR$/ML Zoomcamp/4 - Evaluation/Anotações.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML Zoomcamp/4 - Evaluation/Atividade.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML Zoomcamp/4 - Evaluation/data-week-3.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ML Zoomcamp/3 - Classificação/Anotações.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML Zoomcamp/3 - Classificação/Anotações.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML Zoomcamp/3 - Classificação/Atividade.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML Zoomcamp/3 - Classificação/Atividade.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,19 +26,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="main" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -43,12 +34,12 @@
     &quot;assignee&quot;: &quot;carlosr2000&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/carlosr2000/MLZoomCampCarlos2026.git",
-    "accountId": "2510e234-d8a3-489c-baf4-630751a8f250"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/carloshenribeiro23/Aprendendo-e-mandando.git&quot;,
+    &quot;accountId&quot;: &quot;ef3bd0ba-5bcc-4759-8015-0dbfa71fe5c7&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -75,7 +66,7 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Carlos Henrique/PycharmProjects/MLZoomCampCarlos2026",
+    "last_opened_file_path": "C:/Users/Carlos Henrique/PycharmProjects/MLZoomCampCarlos2026/ML Zoomcamp",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
@@ -84,7 +75,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Carlos Henrique\PycharmProjects\MLZoomCampCarlos2026\ML Zoomcamp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Carlos Henrique\PycharmProjects\MLZoomCampCarlos2026\ML Zoomcamp\4 - Evaluation" />
       <recent name="C:\Users\Carlos Henrique\PycharmProjects\MLZoomCampCarlos2026\ML Zoomcamp\2 - Regressão" />
     </key>
   </component>
@@ -97,6 +92,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\MLZoomCampCarlos2026\.venv" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -122,6 +118,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\MLZoomCampCarlos2026\.venv" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML Zoomcamp/2 - Regressão" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -147,6 +144,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\MLZoomCampCarlos2026\.venv" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -172,6 +170,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\MLZoomCampCarlos2026\.venv" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML Zoomcamp/1- Introdução" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -201,7 +200,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
       </set>
     </attachedChunks>
   </component>
@@ -248,6 +247,12 @@
       <workItem from="1791471494923" duration="2699000" />
       <workItem from="1791489993597" duration="24000" />
       <workItem from="1791490033196" duration="1254000" />
+      <workItem from="1791674921984" duration="2915000" />
+      <workItem from="1791821214029" duration="18000" />
+      <workItem from="1791821249810" duration="1903000" />
+      <workItem from="1792001921250" duration="25000" />
+      <workItem from="1792001969758" duration="4529000" />
+      <workItem from="1792191553977" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Organizando pasta e numpy.">
       <option name="closed" value="true" />
@@ -371,13 +376,21 @@
     </task>
     <task id="LOCAL-00016" summary="Atualização.">
       <option name="closed" value="true" />
-      <created>1791599951887</created>
+      <created>1791823151915</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1791599951887</updated>
+      <updated>1791823151915</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Atualização.">
+      <option name="closed" value="true" />
+      <created>1792008993255</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1792008993256</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
